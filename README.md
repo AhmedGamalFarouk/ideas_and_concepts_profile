@@ -52,3 +52,4 @@ To get this project up and running on your local machine, follow these steps:
 ![Screenshot_1751053353](https://github.com/user-attachments/assets/dd8191bd-6331-4bc6-ae73-caad2bceb861)
 ![Screenshot_1751053347](https://github.com/user-attachments/assets/663db370-54bc-490b-ac26-bd2353a6fc42)
 ![Screenshot_1751053342](https://github.com/user-attachments/assets/1e7d16de-b321-4b01-a49c-57e6ece3efb1)
+![Screenshot_1751053549](https://github.com/user-attachments/assets/301bff90-b807-4b9d-8ef4-3e5199c61865)
