@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1010656709254",
+    "project_id": "ideas-and-concepts-tasks",
+    "storage_bucket": "ideas-and-concepts-tasks.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010656709254:android:a9ee72d5a38648652e5f07",
+        "android_client_info": {
+          "package_name": "com.example.ideas_and_concepts_profile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChJjPkTs6zkpFTg4D5QHa0-UglybBDYzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
